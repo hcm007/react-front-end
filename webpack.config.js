@@ -13,11 +13,6 @@ var config = {
         filename: 'bundle.js'
     },
 
-    /*
-    resolve: {
-        modules: ['/Users/hongchaoma/Documents/hongchaoma/nodejs/react/react-front-end/node_modules'],
-    },
-    */
     module:{
 
         rules : [
